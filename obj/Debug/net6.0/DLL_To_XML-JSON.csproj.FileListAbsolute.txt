@@ -1,0 +1,12 @@
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\bin\Debug\net6.0\DLL_To_XML-JSON.deps.json
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\bin\Debug\net6.0\DLL_To_XML-JSON.dll
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\bin\Debug\net6.0\DLL_To_XML-JSON.pdb
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.csproj.AssemblyReference.cache
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.AssemblyInfoInputs.cache
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.AssemblyInfo.cs
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.csproj.CoreCompileInputs.cache
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.dll
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\refint\DLL_To_XML-JSON.dll
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\DLL_To_XML-JSON.pdb
+C:\Users\Carmo\Desktop\DLL_To_XML-JSON\obj\Debug\net6.0\ref\DLL_To_XML-JSON.dll

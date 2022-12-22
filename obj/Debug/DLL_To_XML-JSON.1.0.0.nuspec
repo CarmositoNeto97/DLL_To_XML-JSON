@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DLL_To_XML-JSON</id>
+    <version>1.0.0</version>
+    <authors>DLL_To_XML-JSON</authors>
+    <description>Uma DLL para exportar uma Lista para arquivos Json ou XML.</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Carmo\Desktop\DLL_To_XML-JSON\bin\Debug\net6.0\DLL_To_XML-JSON.dll" target="lib\net6.0\DLL_To_XML-JSON.dll" />
+  </files>
+</package>
